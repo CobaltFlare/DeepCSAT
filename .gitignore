@@ -1,0 +1,7 @@
+eCommerce_Customer_support_data.csv
+plots/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
